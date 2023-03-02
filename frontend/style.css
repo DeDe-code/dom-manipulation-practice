@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: peru;
+}
+body.dark {
+  background: black;
+}
+body .click-button {
+  padding: 10px;
+  border: none;
+  background: lightgreen;
+}
+body .click-button:hover {
+  border: 1px solid black;
+}
+body p {
+  display: block;
+  color: white;
+}
+body p {
+  display: none;
+}/*# sourceMappingURL=style.css.map */
